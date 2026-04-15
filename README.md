@@ -1,7 +1,7 @@
 # LogicDeck
 
 ## 📸 画面イメージ
-![alt text](logicdeck.png)
+![LogicDeck画面](./logicdeck.png)
 
 ## ✨ 主な機能
 
